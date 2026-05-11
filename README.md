@@ -1,10 +1,14 @@
 <a href="https://tsvweb.com">
-  <img alt="Kristiyan Tsvetanov — Founder, TsvWeb" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Kristiyan%20Tsvetanov&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%E2%80%A2%20TsvWeb%20%E2%80%A2%20Birmingham%2C%20UK&descAlignY=62&descSize=18"/>
+  <img alt="Kristiyan Tsvetanov — Founder, TsvWeb" src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,50:2563eb,100:60a5fa&height=200&section=header&text=Kristiyan%20Tsvetanov&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%E2%80%A2%20TsvWeb%20%E2%80%A2%20Birmingham%2C%20UK&descAlignY=62&descSize=18" width="100%"/>
 </a>
 
 <p align="center">
   <b>Founder of <a href="https://tsvweb.com">TsvWeb</a></b> · Web design &amp; development studio in Birmingham, UK<br/>
   Building fast, conversion-focused websites for businesses across the UK and beyond.
+</p>
+
+<p align="center">
+  🇧🇬 Originally from Bulgaria · 🇬🇧 Based in Birmingham · 🗣 English & Български (native)
 </p>
 
 <p align="center">
@@ -27,7 +31,8 @@
 - 🛠  Self-employed at 17 — running **TsvWeb**, a subscription web design studio.
 - 📦  Shipped **20+ production websites** for clients across the UK, Europe, and the US — from motorsport personal brands to AI-powered learning platforms to medical aesthetics e-commerce.
 - 🎓  Year 12 at Streetly Academy Sixth Form — Maths, Physics, Computer Science.
-- 📍  Birmingham, West Midlands, UK.
+- 🇧🇬  Born in Bulgaria · 🇬🇧 Based in Birmingham, West Midlands, UK.
+- 🗣  Bilingual: English & Bulgarian (native).
 
 ### What I build
 
@@ -80,12 +85,12 @@ End-to-end production sites in **Next.js + TypeScript + Tailwind + Drizzle + Pos
 ### GitHub
 
 <p>
-  <img alt="Stats"    src="https://github-readme-stats.vercel.app/api?username=tsvtnv&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true&rank_icon=github" height="170"/>
-  <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsvtnv&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="170"/>
+  <img alt="Stats"    src="https://github-readme-stats.vercel.app/api?username=tsvtnv&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=2563eb&text_color=c9d1d9&icon_color=2563eb" height="170"/>
+  <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsvtnv&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&bg_color=0d1117&title_color=2563eb&text_color=c9d1d9" height="170"/>
 </p>
 
 <p>
-  <img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tsvtnv&hide_border=true&theme=transparent&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" height="170"/>
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=tsvtnv&hide_border=true&theme=tokyonight&background=0d1117&stroke=2563eb&ring=2563eb&fire=60a5fa&currStreakLabel=2563eb&sideLabels=2563eb&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" height="170"/>
 </p>
 
 ### Currently working on
@@ -98,4 +103,4 @@ End-to-end production sites in **Next.js + TypeScript + Tailwind + Drizzle + Pos
 
 Web design projects for UK businesses · Software engineering apprenticeship conversations · Collaborations with founders building serious tools.
 
-<sub>Get in touch: <a href="mailto:kristiyan@tsvweb.com">kristiyan@tsvweb.com</a></sub>
+<sub>Get in touch: <a href="mailto:kristiyan@tsvweb.com">kristiyan@tsvweb.com</a> · говоря и Български 🇧🇬</sub>
