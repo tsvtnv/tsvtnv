@@ -1,4 +1,6 @@
-<h1 align="center">Kristiyan Tsvetanov</h1>
+<a href="https://tsvweb.com">
+  <img alt="Kristiyan Tsvetanov — Founder, TsvWeb" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Kristiyan%20Tsvetanov&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%E2%80%A2%20TsvWeb%20%E2%80%A2%20Birmingham%2C%20UK&descAlignY=62&descSize=18"/>
+</a>
 
 <p align="center">
   <b>Founder of <a href="https://tsvweb.com">TsvWeb</a></b> · Web design &amp; development studio in Birmingham, UK<br/>
@@ -10,6 +12,12 @@
   <a href="mailto:kristiyan@tsvweb.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/tsvtno/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/tsvtnv/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@tsvtnv"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=tsvtnv&label=Profile%20views&color=2563eb&style=flat"/>
+  <a href="https://github.com/tsvtnv?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/tsvtnv?label=Follow&style=social"/></a>
 </p>
 
 ---
@@ -52,16 +60,32 @@ End-to-end production sites in **Next.js + TypeScript + Tailwind + Drizzle + Pos
 | **Nexa Skin Med** | Official UK distributor site for Selvert Thermal — premium aesthetic skincare and clinic training | React, TS, Tailwind | [nexaskinmed.co.uk](https://nexaskinmed.co.uk) |
 | **Vonlix** | Free booking platform for barbers, salons, and beauty pros — Stripe payments, smart calendar, no-show protection | Next.js, Stripe, Postgres | [vonlix.com](https://vonlix.com) |
 | **Emil Heyerdahl** | Personal brand &amp; sponsorship site for a professional racing driver | Next.js, GSAP | [emilheyerdahl.com](https://emilheyerdahl.com) |
-| **Crevre** | Creative brand &amp; visual identity studio site | Next.js, Tailwind | [crevre.com](https://crevre.com) |
+| **Crevre** | Creative brand &amp; visual identity studio site | Next.js, Tailwind | [www.crevre.com](https://www.crevre.com) |
 | **TsvWeb** | The studio itself — Turborepo monorepo, Hono API, admin + client portal, uptime status, MDX blog | Next.js 15, Hono, Drizzle, Postgres | [tsvweb.com](https://tsvweb.com) |
 
 → Full portfolio: **[tsvweb.com/work](https://tsvweb.com/work)**
 
+### Latest from the TsvWeb blog
+
+<!-- BLOG-POST-LIST:START -->
+- [Web Design Pricing in the UK (2026): What a Website Actually Costs](https://tsvweb.com/blog/web-design-pricing-uk-2026)
+- [Local SEO &amp; Google Business Profile for UK Small Businesses](https://tsvweb.com/blog/local-seo-google-business-profile-uk-small-businesses)
+- [Web Design for Restaurants UK: Win Direct Bookings and Stop Paying Platform Fees](https://tsvweb.com/blog/web-design-for-restaurants-uk)
+- [Web Design for Solicitors UK](https://tsvweb.com/blog/web-design-for-solicitors-uk)
+- [Web Design for Accountants UK](https://tsvweb.com/blog/web-design-for-accountants-uk)
+<!-- BLOG-POST-LIST:END -->
+
+> _Auto-refreshed daily from the [TsvWeb RSS feed](https://tsvweb.com/blog/rss) via [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)._
+
 ### GitHub
 
 <p>
-  <img alt="Stats"    src="https://github-readme-stats.vercel.app/api?username=TsveMotion&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true&rank_icon=github" height="170"/>
-  <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsveMotion&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="170"/>
+  <img alt="Stats"    src="https://github-readme-stats.vercel.app/api?username=tsvtnv&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true&rank_icon=github" height="170"/>
+  <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsvtnv&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="170"/>
+</p>
+
+<p>
+  <img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tsvtnv&hide_border=true&theme=transparent&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" height="170"/>
 </p>
 
 ### Currently working on

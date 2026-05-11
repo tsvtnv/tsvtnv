@@ -1,0 +1,23 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    # Runs every day at 06:00 UTC
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest TsvWeb posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          max_post_count: 5
+          feed_list: "https://tsvweb.com/blog/rss"
+          template: "- [$title]($url) <sub><sup>$newline$date</sup></sub>$newline"
+          comment_tag_name: "BLOG-POST-LIST"
+          commit_message: "chore(readme): refresh latest TsvWeb posts"
