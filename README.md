@@ -14,7 +14,7 @@
 
 ## What I Do
 
-I run **TsvWeb** — a web design studio that builds Next.js websites that load fast, rank on Google, and turn visitors into paying clients. Every site is custom, no templates, no page builders.
+I run **TsvWeb** — a web design studio that builds Next.js websites that load fast, rank on Google, and turn visitors into paying clients. Every site is custom — no templates, no page builders.
 
 ## 🔥 Active Projects
 
@@ -32,6 +32,10 @@ I run **TsvWeb** — a web design studio that builds Next.js websites that load 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+
+## 📂 Client Work
+
+→ **[tsvweb.com/work](https://tsvweb.com/work)**
 
 ## 📬 Work With Me
 
