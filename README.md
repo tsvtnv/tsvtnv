@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  🇧🇬 Originally from Bulgaria · 🇬🇧 Based in Birmingham · 🗣 English & Български (native)
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f1e7-1f1ec.png" width="18" alt="BG"/> Originally from Bulgaria · <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f1ec-1f1e7.png" width="18" alt="UK"/> Based in Birmingham · 🗣 English & Български (native)
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 - 🛠  Self-employed at 17 — running **TsvWeb**, a subscription web design studio.
 - 📦  Shipped **20+ production websites** for clients across the UK, Europe, and the US — from motorsport personal brands to AI-powered learning platforms to medical aesthetics e-commerce.
 - 🎓  Year 12 at Streetly Academy Sixth Form — Maths, Physics, Computer Science.
-- 🇧🇬  Born in Bulgaria · 🇬🇧 Based in Birmingham, West Midlands, UK.
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f1e7-1f1ec.png" width="18" alt="BG"/>  Born in Bulgaria · <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f1ec-1f1e7.png" width="18" alt="UK"/> Based in Birmingham, West Midlands, UK.
 - 🗣  Bilingual: English & Bulgarian (native).
 
 ### What I build
@@ -85,8 +85,8 @@ End-to-end production sites in **Next.js + TypeScript + Tailwind + Drizzle + Pos
 ### GitHub
 
 <p>
-  <img alt="Stats"    src="https://github-readme-stats.vercel.app/api?username=tsvtnv&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=2563eb&text_color=c9d1d9&icon_color=2563eb" height="170"/>
-  <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsvtnv&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&bg_color=0d1117&title_color=2563eb&text_color=c9d1d9" height="170"/>
+  <img alt="Stats"    src="https://github-readme-stats.hackclub.dev/api?username=tsvtnv&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=2563eb&text_color=c9d1d9&icon_color=2563eb" height="170"/>
+  <img alt="Languages" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=tsvtnv&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&bg_color=0d1117&title_color=2563eb&text_color=c9d1d9" height="170"/>
 </p>
 
 <p>
@@ -103,4 +103,4 @@ End-to-end production sites in **Next.js + TypeScript + Tailwind + Drizzle + Pos
 
 Web design projects for UK businesses · Software engineering apprenticeship conversations · Collaborations with founders building serious tools.
 
-<sub>Get in touch: <a href="mailto:kristiyan@tsvweb.com">kristiyan@tsvweb.com</a> · говоря и Български 🇧🇬</sub>
+<sub>Get in touch: <a href="mailto:kristiyan@tsvweb.com">kristiyan@tsvweb.com</a> · говоря и Български <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f1e7-1f1ec.png" width="18" alt="BG"/></sub>
